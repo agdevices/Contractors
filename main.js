@@ -488,7 +488,7 @@ const contractor = [
     div.classList.add('card-container');
   
     const a = document.createElement('a');
-    a.setAttribute('href',``);
+    a.setAttribute('href',`#`);
     a.innerHTML = el.companyName;
     a.dataset.id = el._id;
     // a.textContent = el.companyName;
