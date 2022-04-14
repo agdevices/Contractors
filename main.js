@@ -108,7 +108,7 @@ const contractor = [
      "_id": "6220d7cac39ee6cb02fbec34",
      "companyName": "MESA CONSTRUCTION COMPANY",
      "qualifier": "MESA TOMAS",
-     "companyMail": null,
+     "companyMail": "permits.mesaconstruction@gmail.com",
      "companyPhone": "305-978-9611",
      "companyAddress": "11401 SW 1ST CT",
      "companyCounty": "PLANTATION",
@@ -448,7 +448,37 @@ const contractor = [
      "licenseNumber": 1264921,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
-    }
+    },
+    {
+      "_id": 2,
+      "companyName": "HI-TECH ELECTRIC & FIRE CORP",
+      "qualifier": "EDMUNDO JARQUIN",
+      "companyMail": "njarquin2004@yahoo.com",
+      "companyPhone": "786-543-5216",
+      "companyAddress": "1500 SW 101 AVE",
+      "companyCounty": "MIAMI",
+      "companyState": "FLORIDA",
+      "companyZip": 33174,
+      "licenseType": "EC",
+      "licenseNumber": 13002608,
+      "licenseIssued": null,
+      "licenseExpDate": "08\/31\/2022"
+     },
+     {
+      "_id": 3,
+      "companyName": "MDS ENGINEERING CORP",
+      "qualifier": "MARIO DUANY",
+      "companyMail": "marioduany@mdsengineeringcorp.com ",
+      "companyPhone": "786-436-7062",
+      "companyAddress": "9370 SW 72 ST A270",
+      "companyCounty": "MIAMI",
+      "companyState": "FLORIDA",
+      "companyZip": 33183,
+      "licenseType": "CFC",
+      "licenseNumber": 1430127,
+      "licenseIssued": null,
+      "licenseExpDate": "08\/31\/2022"
+     }
    ]
 
  
@@ -458,7 +488,7 @@ const contractor = [
     div.classList.add('card-container');
   
     const a = document.createElement('a');
-    a.setAttribute('href',`#`);
+    a.setAttribute('href',``);
     a.innerHTML = el.companyName;
     a.dataset.id = el._id;
     // a.textContent = el.companyName;
@@ -494,7 +524,7 @@ const contractor = [
     divDetalle.appendChild(p6);
 
     const p7 = document.createElement('p');
-    p7.textContent = "City: " + el.companyZip;
+    p7.textContent = "Zip: " + el.companyZip;
     divDetalle.appendChild(p7);
 
     const p8 = document.createElement('p');
