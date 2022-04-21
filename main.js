@@ -635,10 +635,22 @@ const contractor = [
         //   const text = e.currentTarget.textContent;
             // console.log(e.currentTarget.nextElementSibling)
             const allDetailCards = document.querySelectorAll(`.card-detail-container`)
-            allDetailCards.forEach((card) => {
-                card.classList.add(`hidden`)
-            })
-            e.currentTarget.nextElementSibling.classList.remove(`hidden`)
+ 
+              if (!e.currentTarget.nextElementSibling.classList.contains(`hidden`)){
+                e.currentTarget.nextElementSibling.classList.add(`hidden`)
+              }else{
+                e.currentTarget.nextElementSibling.classList.remove(`hidden`)
+              }
+ 
+            // allDetailCards.forEach((card) => {
+            //     card.classList.add(`hidden`)
+            // })
+            // if (!e.currentTarget.nextElementSibling.classList.contains(`hidden`)){
+            //   e.currentTarget.nextElementSibling.classList.remove(`hidden`)
+            // }
+            // e.currentTarget.nextElementSibling.classList.remove(`hidden`)
+
+
             // console.log($(this).parent().children('card-detail-container'));
             // showCurrentDetail();
         //   e.currentTarget.classList.remove('hidden');
