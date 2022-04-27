@@ -11,6 +11,7 @@ const contractor = [
     "companyZip": 33612,
     "licenseType": "CFC",
     "licenseNumber": 1428028,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -26,6 +27,7 @@ const contractor = [
     "companyZip": 33016,
     "licenseType": "CAC",
     "licenseNumber": "1816768",
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -41,6 +43,7 @@ const contractor = [
     "companyZip": 33144,
     "licenseType": "EC",
     "licenseNumber": "0001288",
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -56,6 +59,7 @@ const contractor = [
     "companyZip": 33157,
     "licenseType": "CGC",
     "licenseNumber": 1516610,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -71,6 +75,7 @@ const contractor = [
     "companyZip": 33157,
     "licenseType": "CMC",
     "licenseNumber": 1249813,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -86,6 +91,7 @@ const contractor = [
     "companyZip": 33157,
     "licenseType": "CFC",
     "licenseNumber": 1427116,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -101,6 +107,7 @@ const contractor = [
     "companyZip": 33004,
     "licenseType": "CGC",
     "licenseNumber": 1508888,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -116,6 +123,7 @@ const contractor = [
     "companyZip": 33129,
     "licenseType": "CGC",
     "licenseNumber": "1525037",
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -131,6 +139,7 @@ const contractor = [
     "companyZip": 33145,
     "licenseType": "CRC",
     "licenseNumber": "1332782",
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -146,6 +155,7 @@ const contractor = [
     "companyZip": 33154,
     "licenseType": "CGC",
     "licenseNumber": 1513513,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -161,6 +171,7 @@ const contractor = [
     "companyZip": 33326,
     "licenseType": "CGC",
     "licenseNumber": 1514716,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": null
    },
@@ -176,6 +187,7 @@ const contractor = [
     "companyZip": 33331,
     "licenseType": "CGC",
     "licenseNumber": 1530523,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -191,6 +203,7 @@ const contractor = [
     "companyZip": 33155,
     "licenseType": "LICENSE",
     "licenseNumber": "10BS00411",
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": null
    },
@@ -206,6 +219,7 @@ const contractor = [
     "companyZip": 33155,
     "licenseType": "CGC",
     "licenseNumber": 1513180,
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -221,9 +235,26 @@ const contractor = [
      "companyZip": 33020,
      "licenseType": "CGC",
      "licenseNumber": "1510147",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": null
     },
+    {
+      "_id": "10",
+      "companyName": "HERN´S UNLIMITED ELECTRICAL CONTRACTOR INC",
+      "qualifier": "RONNIER HERNANDEZ GARCIA",
+      "companyMail": "ronnierhernandez@herns-umlimited.com",
+      "companyPhone": "786-226-3038",
+      "companyAddress": " 11060 SW 221ST TERRACE",
+      "companyCounty": "MIAMI",
+      "companyState": "FLORIDA",
+      "companyZip": 33170,
+      "licenseType": "EC",
+      "licenseNumber": "13010279",
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": "08\/31\/2022"
+     },
     {
       "_id": "6220d7cac39ee6cb02fbec32",
       "companyName": "H&P CONSTRUCTION AND DEVELOPMENT LLC",
@@ -236,6 +267,7 @@ const contractor = [
       "companyZip": 33129,
       "licenseType": "CGC",
       "licenseNumber": "1522384",
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": null
      },
@@ -251,6 +283,7 @@ const contractor = [
       "companyZip": 33174,
       "licenseType": "EC",
       "licenseNumber": 13002608,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -266,6 +299,7 @@ const contractor = [
       "companyZip": 33016,
       "licenseType": "CFC",
       "licenseNumber": 1429883,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -281,6 +315,7 @@ const contractor = [
       "companyZip": 33184,
       "licenseType": "CAC",
       "licenseNumber": 1821070,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -296,6 +331,7 @@ const contractor = [
       "companyZip": 33015,
       "licenseType": "EC",
       "licenseNumber": "13005608",
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -311,6 +347,7 @@ const contractor = [
      "companyZip": 33166,
      "licenseType": "CGC",
      "licenseNumber": "1528673",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
     },
@@ -326,6 +363,7 @@ const contractor = [
       "companyZip": 33183,
       "licenseType": "CFC",
       "licenseNumber": 1430127,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -341,6 +379,7 @@ const contractor = [
       "companyZip": 33325,
       "licenseType": "CFC",
       "licenseNumber": "027531",
+      "lastFour": 1388,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -356,6 +395,7 @@ const contractor = [
      "companyZip": 33180,
      "licenseType": null,
      "licenseNumber": "11BS00469",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": null
     },
@@ -371,6 +411,7 @@ const contractor = [
      "companyZip": 33162,
      "licenseType": "CGC",
      "licenseNumber": "1508952",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
     },
@@ -386,6 +427,7 @@ const contractor = [
      "companyZip": 33162,
      "licenseType": "CCC",
      "licenseNumber": "1327735",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
     },
@@ -401,6 +443,7 @@ const contractor = [
      "companyZip": 33162,
      "licenseType": "CFC",
      "licenseNumber": "1427292",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
     },
@@ -416,6 +459,7 @@ const contractor = [
      "companyZip": 33162,
      "licenseType": "CMC",
      "licenseNumber": "1249755",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
     },
@@ -431,6 +475,7 @@ const contractor = [
      "companyZip": 33162,
      "licenseType": "CUC",
      "licenseNumber": 1224687,
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
     },
@@ -446,6 +491,7 @@ const contractor = [
       "companyZip": 33018,
       "licenseType": "CGC",
       "licenseNumber": 1515837,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -461,6 +507,7 @@ const contractor = [
      "companyZip": 33151,
      "licenseType": null,
      "licenseNumber": "02B500385",
+     "lastFour": null,
      "licenseIssued": null,
      "licenseExpDate": "08\/31\/2022"
     },
@@ -476,6 +523,7 @@ const contractor = [
       "companyZip": 33150,
       "licenseType": "CBC",
       "licenseNumber": 1264921,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -491,6 +539,7 @@ const contractor = [
       "companyZip": 33193,
       "licenseType": "RF",
       "licenseNumber": 11067556,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -506,6 +555,7 @@ const contractor = [
       "companyZip": 33157,
       "licenseType": "CGC",
       "licenseNumber": 1530602,
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -521,6 +571,7 @@ const contractor = [
       "companyZip": 33157,
       "licenseType": "CGC",
       "licenseNumber": "21BS00250",
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "09\/30\/2022"
      },
@@ -536,8 +587,25 @@ const contractor = [
       "companyZip": 33157,
       "licenseType": "CGC",
       "licenseNumber": "12BS00138",
+      "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "09\/30\/2022"
+     },
+     {
+      "_id": "9",
+      "companyName": " URBAN CONSTRUCTION",
+      "qualifier": "HENRY ALFREDO LOVERA",
+      "companyMail": "hlurbanconstruction@gmail.com",
+      "companyPhone": "305-725-4162",
+      "companyAddress": "1043 ALHAMBRA CIRCLE",
+      "companyCounty": "CORAL GABLES",
+      "companyState": "FLORIDA",
+      "companyZip": 33143,
+      "licenseType": "CGC",
+      "licenseNumber": 1513971,
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": "08\/31\/2022"
      },
      {
       "_id": "622a999af479a63e62957e69",
@@ -545,14 +613,15 @@ const contractor = [
       "qualifier": "WAGNER ALBERTO CABRERA",
       "companyMail": null,
       "companyPhone": "305-408-6231",
-      "companyAddress": "13484 SW 22 TER ",
+      "companyAddress": "13484 SW 22 TER",
       "companyCounty": "MIAMI",
       "companyState": "FLORIDA",
       "companyZip": 33175,
       "licenseType": "CGC",
       "licenseNumber": 1516547,
+      "lastFour": null,
       "licenseIssued": null,
-      "licenseExpDate": null
+      "licenseExpDate": "08\/31\/2022"
      }
    ]
 
@@ -576,7 +645,9 @@ const contractor = [
     divDetalle.classList.add('hidden');
 
     const p1 = document.createElement('p');
+    // const p1a = document.createElement('p');
     p1.textContent = "Qualifier: " + el.qualifier;
+    // p1a.textContent = el.qualifier;
     divDetalle.appendChild(p1);
 
     const p2 = document.createElement('p');
@@ -612,12 +683,16 @@ const contractor = [
     divDetalle.appendChild(p9);
 
     const p10 = document.createElement('p');
-    p10.textContent = "License Issued: " + el.licenseIssued;
+    p10.textContent = "Last four Numbers: " + el.lastFour;
     divDetalle.appendChild(p10);
 
     const p11 = document.createElement('p');
-    p11.textContent = "License Exp. Date: " + el.licenseExpDate;
+    p11.textContent = "License Issued: " + el.licenseIssued;
     divDetalle.appendChild(p11);
+
+    const p12 = document.createElement('p');
+    p12.textContent = "License Exp. Date: " + el.licenseExpDate;
+    divDetalle.appendChild(p12);
   
     const container = document.querySelector('.container')
     // const cardContainer = document.querySelector('.card-container')
