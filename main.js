@@ -123,7 +123,7 @@ const contractor = [
     "companyZip": 33129,
     "licenseType": "CGC",
     "licenseNumber": "1525037",
-    "lastFour": null,
+    "lastFour": 7968,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -158,6 +158,22 @@ const contractor = [
     "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
+   },
+   {
+    "_id": "11",
+    "companyName": "C P S ELECTRIC INC",
+    "qualifier": "ANGEL ROMERO",
+    "companyMail": "cpselectric1@gmail.com",
+    "companyPhone": "305-962-9742",
+    "companyAddress": "1600 NW 28 AVE",
+    "companyCounty": "MIAMI",
+    "companyState": "FLORIDA",
+    "companyZip": 33125,
+    "licenseType": "EC",
+    "licenseNumber": 13005401,
+    "lastFour": null,
+    "licenseIssued": null,
+    "licenseExpDate": "09\/30\/2022"
    },
    {
     "_id": "622a987df479a63e62957e67",
@@ -240,6 +256,38 @@ const contractor = [
      "licenseExpDate": null
     },
     {
+      "_id": "12",
+      "companyName": "GARP CONSTRUCTION GROUP INC",
+      "qualifier": "JAVIER PEREZ",
+      "companyMail": null,
+      "companyPhone": null,
+      "companyAddress": "7530 SW 36 ST",
+      "companyCounty": "HOLLYWOOD",
+      "companyState": "FLORIDA",
+      "companyZip": 33155,
+      "licenseType": "CAC",
+      "licenseNumber": "1817062",
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": "08\/31\/2022"
+     },
+     {
+      "_id": "13",
+      "companyName": "GLEZ ELECTRICAL CORP",
+      "qualifier": "JANIER GONZALEZ",
+      "companyMail": null,
+      "companyPhone": null,
+      "companyAddress": "8132 NW 68 TER",
+      "companyCounty": "TAMARAC",
+      "companyState": "FLORIDA",
+      "companyZip": 33321,
+      "licenseType": "EC",
+      "licenseNumber": "13007197",
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": null
+     },
+    {
       "_id": "10",
       "companyName": "HERN´S UNLIMITED ELECTRICAL CONTRACTOR INC",
       "qualifier": "RONNIER HERNANDEZ GARCIA",
@@ -308,7 +356,7 @@ const contractor = [
       "companyName": "LEON DUCT WORK INC",
       "qualifier": "RUBIO FRANCISCO",
       "companyMail": "leonductwork@yahoo.com",
-      "companyPhone": null,
+      "companyPhone": "786-762-5475",
       "companyAddress": "1194 SW 133 PLACE CIRCLE",
       "companyCounty": "MIAMI",
       "companyState": "FLORIDA",
@@ -400,6 +448,22 @@ const contractor = [
      "licenseExpDate": null
     },
     {
+      "_id": "14",
+      "companyName": "PEREZ & PEREZ FLOORING INC",
+      "qualifier": "NOEL PEREZ",
+      "companyMail": "cperezjsc@yahoo.com",
+      "companyPhone": "786-294-7613",
+      "companyAddress": "921 E 22 ST",
+      "companyCounty": "HIALEAH",
+      "companyState": "FLORIDA",
+      "companyZip": 33013,
+      "licenseType": null,
+      "licenseNumber": "09BS00207",
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": null
+     },
+    {
      "_id": "6220d7cac39ee6cb02fbec38",
      "companyName": "REGOSA ENGINEERING SERVICES INC (CGC)",
      "qualifier": "VELEZ GUSTAVO DANIEL",
@@ -483,14 +547,30 @@ const contractor = [
       "_id": "6220d7cac39ee6cb02fbec45",
       "companyName": "RICHPORT CONSTRUCTION GROUP INC",
       "qualifier": "TOLEDO ONIEL EDGARDO",
-      "companyMail": null,
-      "companyPhone": null,
+      "companyMail": "oniel@richport.us",
+      "companyPhone": "786-970-1983",
       "companyAddress": "18489 NW 88 PLACE",
       "companyCounty": "HIALEAH",
       "companyState": "FLORIDA",
       "companyZip": 33018,
       "licenseType": "CGC",
       "licenseNumber": 1515837,
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": "08\/31\/2022"
+     },
+     {
+      "_id": "15",
+      "companyName": "ROSEMBERG ELECTRICAL SERVICES INC",
+      "qualifier": "ROSEMBERG DE OLIVEIRA",
+      "companyMail": null,
+      "companyPhone": null,
+      "companyAddress": "930 NW 48TH PL",
+      "companyCounty": "DEERFIELD BEACH",
+      "companyState": "FLORIDA",
+      "companyZip": 33064,
+      "licenseType": "EC",
+      "licenseNumber": 13009184,
       "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
@@ -592,6 +672,38 @@ const contractor = [
       "licenseExpDate": "09\/30\/2022"
      },
      {
+      "_id": 18,
+      "companyName": "W.W.J.D.ENGINEERING, INC (CGC)",
+      "qualifier": "OSCAR A BEHNCKE",
+      "companyMail": "wwjdengineeringinc@yahoo.com",
+      "companyPhone": "305-607-4544",
+      "companyAddress": "9511 NW 14 ST",
+      "companyCounty": "PEMBROKE PINES",
+      "companyState": "FLORIDA",
+      "companyZip": 33024,
+      "licenseType": "CGC",
+      "licenseNumber": "1507563",
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": null
+     },
+     {
+      "_id": 16,
+      "companyName": "W.W.J.D.ENGINEERING, INC (CMC)",
+      "qualifier": "OSCAR A BEHNCKE",
+      "companyMail": "wwjdengineeringinc@yahoo.com",
+      "companyPhone": "305-607-4544",
+      "companyAddress": "9511 NW 14 ST",
+      "companyCounty": "PEMBROKE PINES",
+      "companyState": "FLORIDA",
+      "companyZip": 33024,
+      "licenseType": "CMC",
+      "licenseNumber": "057134",
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": null
+     },
+     {
       "_id": "9",
       "companyName": " URBAN CONSTRUCTION",
       "qualifier": "HENRY ALFREDO LOVERA",
@@ -619,6 +731,22 @@ const contractor = [
       "companyZip": 33175,
       "licenseType": "CGC",
       "licenseNumber": 1516547,
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": "08\/31\/2022"
+     },
+     {
+      "_id": "17",
+      "companyName": "ZSP CONSTRUCTION LLC",
+      "qualifier": "ZSOLT PAVELA",
+      "companyMail": "zspconstruction@yahoo.com",
+      "companyPhone": "818-625-6661",
+      "companyAddress": "2451 PELICAN DR",
+      "companyCounty": "SARASOTA",
+      "companyState": "FLORIDA",
+      "companyZip": 34237,
+      "licenseType": "CGC",
+      "licenseNumber": 1527654,
       "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
@@ -650,50 +778,118 @@ const contractor = [
     // p1a.textContent = el.qualifier;
     divDetalle.appendChild(p1);
 
+//**************************************************/
+
     const p2 = document.createElement('p');
-    p2.textContent = "Mail: " + el.companyMail;
+    if(el.companyMail===null) {
+      p2.textContent = "Mail: " + "---"
+    }else{
+      p2.textContent = "Mail: " + el.companyMail;
+    }
     divDetalle.appendChild(p2);
 
+//**************************************************/
+
     const p3= document.createElement('p');
-    p3.textContent = "Phone: " + el.companyPhone;
+    if(el.companyPhone===null) {
+      p3.textContent = "Phone: " + "---";
+    }else{
+      p3.textContent = "Phone: " + el.companyPhone;
+    }
     divDetalle.appendChild(p3);
 
+//**************************************************/
+
     const p4 = document.createElement('p');
-    p4.textContent = "Address: " + el.companyAddress;
+    if(el.companyAddress===null) {
+      p4.textContent = "Address: " + "---";
+    }else{
+      p4.textContent = "Address: " + el.companyAddress;
+    }
     divDetalle.appendChild(p4);
 
+//**************************************************/
+
     const p5 = document.createElement('p');
-    p5.textContent = "City: " + el.companyCounty;
+    if(el.companyCounty===null) {
+      p5.textContent = "City: " + "---";
+    }else{
+      p5.textContent = "City: " + el.companyCounty;
+    }
     divDetalle.appendChild(p5);
 
+//**************************************************/
+
     const p6 = document.createElement('p');
-    p6.textContent = "State: " + el.companyState;
+    if(el.companyState===null) {
+      p6.textContent = "State: " + "---";
+    }else{
+      p6.textContent = "State: " + el.companyState;
+    }
     divDetalle.appendChild(p6);
 
+//**************************************************/
+
     const p7 = document.createElement('p');
-    p7.textContent = "Zip: " + el.companyZip;
+    if(el.companyZip===null) {
+      p7.textContent = "Zip: " + "---";
+    }else{
+      p7.textContent = "Zip: " + el.companyZip;
+    }
     divDetalle.appendChild(p7);
 
+//**************************************************/
+
     const p8 = document.createElement('p');
-    p8.textContent = "License type: " + el.licenseType;
+    if(el.licenseType===null) {
+      p8.textContent = "License type: " + "---";
+    }else{
+      p8.textContent = "License type: " + el.licenseType;
+    }
     divDetalle.appendChild(p8);
 
+//**************************************************/
+
     const p9 = document.createElement('p');
-    p9.textContent = "License #: " + el.licenseNumber;
+    if(el.licenseNumber===null) {
+      p9.textContent = "License #: " + "---";
+    }else{
+      p9.textContent = "License #: " + el.licenseNumber;
+    }
     divDetalle.appendChild(p9);
 
+//**************************************************/
+
     const p10 = document.createElement('p');
-    p10.textContent = "Last four Numbers: " + el.lastFour;
+    if(el.lastFour===null) {
+      p10.textContent = "Last four Numbers: " + "---";
+    }else{
+      p10.textContent = "Last four Numbers: " + el.lastFour;
+    }
     divDetalle.appendChild(p10);
 
+//**************************************************/
+
     const p11 = document.createElement('p');
-    p11.textContent = "License Issued: " + el.licenseIssued;
+    if(el.licenseIssued===null) {
+      p11.textContent = "License Issued: " + "---";
+    }else{
+      p11.textContent = "License Issued: " + el.licenseIssued;
+    }
     divDetalle.appendChild(p11);
 
+//**************************************************/
+
     const p12 = document.createElement('p');
-    p12.textContent = "License Exp. Date: " + el.licenseExpDate;
+    if(el.licenseExpDate===null) {
+      p12.textContent = "License Exp. Date: " + "---";
+    }else{
+      p12.textContent = "License Exp. Date: " + el.licenseExpDate;
+    }
     divDetalle.appendChild(p12);
   
+//**************************************************/
+
     const container = document.querySelector('.container')
     // const cardContainer = document.querySelector('.card-container')
     container.appendChild(div);
