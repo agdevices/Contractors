@@ -144,6 +144,22 @@ const contractor = [
     "licenseExpDate": "08\/31\/2022"
    },
    {
+    "_id": "23",
+    "companyName": "BEES POOL SERVICES INC",
+    "qualifier": "PENA BRANDON",
+    "companyMail": null,
+    "companyPhone": null,
+    "companyAddress": "6860 WINGED FOOT DRIVE",
+    "companyCounty": "HIALEAH",
+    "companyState": "FLORIDA",
+    "companyZip": 33015,
+    "licenseType": "CPC",
+    "licenseNumber": "CPC1459526",
+    "lastFour": null,
+    "licenseIssued": null,
+    "licenseExpDate": "08\/31\/2022"
+   },
+   {
     "_id": "6220d7cac39ee6cb02fbec43",
     "companyName": "BUILD & FIX INC",
     "qualifier": "FURTADO PEDRO",
@@ -155,7 +171,7 @@ const contractor = [
     "companyZip": 33154,
     "licenseType": "CGC",
     "licenseNumber": "CGC1513513",
-    "lastFour": null,
+    "lastFour": 4355,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -203,7 +219,7 @@ const contractor = [
     "companyZip": 33331,
     "licenseType": "CGC",
     "licenseNumber": "CGC1530523",
-    "lastFour": null,
+    "lastFour": 0889,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -236,6 +252,22 @@ const contractor = [
     "licenseType": "CGC",
     "licenseNumber": "CGC1513180",
     "lastFour": 1933,
+    "licenseIssued": null,
+    "licenseExpDate": "08\/31\/2022"
+   },
+   {
+    "_id": "24",
+    "companyName": "ELECTRICAL MASTER INC",
+    "qualifier": "OSVALDO RODRIGUEZ",
+    "companyMail": null,
+    "companyPhone": null,
+    "companyAddress": "9223 SW 4TH TERRACE",
+    "companyCounty": "MIAMI",
+    "companyState": "FLORIDA",
+    "companyZip": 33174,
+    "licenseType": "ER",
+    "licenseNumber": "ER13057",
+    "lastFour": null,
     "licenseIssued": null,
     "licenseExpDate": "08\/31\/2022"
    },
@@ -276,7 +308,7 @@ const contractor = [
       "companyName": "GARP CONSTRUCTION GROUP INC",
       "qualifier": "JAVIER PEREZ",
       "companyMail": null,
-      "companyPhone": null,
+      "companyPhone": "305-506-5068",
       "companyAddress": "7530 SW 36 ST",
       "companyCounty": "HOLLYWOOD",
       "companyState": "FLORIDA",
@@ -342,12 +374,12 @@ const contractor = [
       "companyMail": "habitatgroup@hotmail.com",
       "companyPhone": "954-410-6364",
       "companyAddress": "9920 NW 44th TERRACE",
-      "companyCounty": "HALLANDALE",
+      "companyCounty": "DORAL",
       "companyState": "FLORIDA",
-      "companyZip": 33309,
+      "companyZip": 33178,
       "licenseType": "CGC",
       "licenseNumber": "CGC1513855",
-      "lastFour": 1772,
+      "lastFour": "0665",
       "licenseIssued": null,
       "licenseExpDate": null
      },
@@ -368,8 +400,24 @@ const contractor = [
       "licenseExpDate": "08\/31\/2022"
      },
      {
+     "_id": 25,
+     "companyName": "HVAC BUILDING SOLUTIONS CORP",
+     "qualifier": "ALEX GINARTE",
+     "companyMail": "hvacbuildingsolutions@yahoo.com",
+     "companyPhone": null,
+     "companyAddress": null,
+     "companyCounty": null,
+     "companyState": null,
+     "companyZip": null,
+     "licenseType": null,
+     "licenseNumber": null,
+     "lastFour": null,
+     "licenseIssued": null,
+     "licenseExpDate": null
+    },
+     {
       "_id": "6220d7cac39ee6cb02fbec3e",
-      "companyName": "J Y P SERVICES & REPAIRS, CORP",
+      "companyName": "J Y P SERVICES & REPAIRS CORP",
       "qualifier": "PENA JOSE Y",
       "companyMail": "yimmy7@hotmail.com",
       "companyPhone": "305-216-7283",
@@ -382,6 +430,22 @@ const contractor = [
       "lastFour": null,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
+     },
+     {
+      "_id": "26",
+      "companyName": "K & V ELECTRICAL CORP",
+      "qualifier": "VICENTE MONTEAGUDO",
+      "companyMail": null,
+      "companyPhone": null,
+      "companyAddress": null,
+      "companyCounty": null,
+      "companyState": null,
+      "companyZip": null,
+      "licenseType": "EC",
+      "licenseNumber": "EC13006982",
+      "lastFour": null,
+      "licenseIssued": null,
+      "licenseExpDate": null
      },
      {
       "_id": "6220d7cac39ee6cb02fbec3f",
@@ -699,7 +763,7 @@ const contractor = [
       "companyZip": 33157,
       "licenseType": "CGC",
       "licenseNumber": "CGC1530602",
-      "lastFour": null,
+      "lastFour": 6066,
       "licenseIssued": null,
       "licenseExpDate": "08\/31\/2022"
      },
@@ -715,7 +779,7 @@ const contractor = [
       "companyZip": 33157,
       "licenseType": "CGC",
       "licenseNumber": "CGC21BS00250",
-      "lastFour": null,
+      "lastFour": 6066,
       "licenseIssued": null,
       "licenseExpDate": "09\/30\/2022"
      },
@@ -731,7 +795,7 @@ const contractor = [
       "companyZip": 33157,
       "licenseType": "CGC",
       "licenseNumber": "CGC12BS00138",
-      "lastFour": null,
+      "lastFour": 9199,
       "licenseIssued": null,
       "licenseExpDate": "09\/30\/2022"
      },
@@ -969,6 +1033,8 @@ const contractor = [
         //   const dataId = e.currentTarget.dataset.id;
         //   const text = e.currentTarget.textContent;
             // console.log(e.currentTarget.nextElementSibling)
+            hideAll();
+
             const allDetailCards = document.querySelectorAll(`.card-detail-container`)
  
               if (!e.currentTarget.nextElementSibling.classList.contains(`hidden`)){
@@ -992,6 +1058,14 @@ const contractor = [
         //   mostarFondo();
         //   mostrarModal(dataId, text);
         });
+      }
+
+      function hideAll(){
+        const allDetailCards = document.querySelectorAll(`.card-detail-container`)
+
+        allDetailCards.forEach((el) => {
+          el.classList.add('hidden')
+        })
       }
 
     //   function showCurrentDetail(){}
