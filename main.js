@@ -1,5 +1,21 @@
 const contractor = [
   {
+    "_id": 27,
+    "companyName": "4418 GC LLC",
+    "qualifier": "KEVIN KRAG",
+    "companyMail": "info@4418gc.com",
+    "companyPhone": "786-440-4888",
+    "companyAddress": "1880 S TREASURE DR",
+    "companyCounty": "NORTH BAY VILLAGE",
+    "companyState": "FLORIDA",
+    "companyZip": 33141,
+    "licenseType": "CGC",
+    "licenseNumber": "CGC1527616",
+    "lastFour": 0103,
+    "licenseIssued": null,
+    "licenseExpDate": "08\/31\/2022"
+   },
+  {
     "_id": 7,
     "companyName": "A&L PLUMBING SPECIALISTS LLC",
     "qualifier": "HECTOR ALEXANDER VALDES",
